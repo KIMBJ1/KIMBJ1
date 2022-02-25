@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Interest
 
 ### Latest Projects
-[Front-End miniproject](https://https://github.com/KIMBJ1/boot_miniProject3)
+[Front-End miniproject](https://github.com/KIMBJ1/boot_miniProject3)
 
 ### Languages and Tools
 
