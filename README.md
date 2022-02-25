@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Interest
 
 ### Latest Projects
-[Git_merge_practice](https://github.com/KIMBJ1/merge_3.2_before_fast_forward)
+[Front-End miniproject](https://https://github.com/KIMBJ1/boot_miniProject3)
 
 ### Languages and Tools
 
