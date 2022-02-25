@@ -1,4 +1,6 @@
 ### Hi there 👋
+### from
+Seoul, Republic of Korea :smile:
 
 <!--
 **KIMBJ1/KIMBJ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- status bar -->
+## status bar 
   <img src="https://github-readme-stats.vercel.app/api?username=KIMBJ1&layout=compact&show_icons=true&theme=vue&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMBJ1&layout=compact&theme=vue&hide_border=true" />
   
