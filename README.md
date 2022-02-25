@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 ## status bar 
 [![KIMBJ1's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMBJ1)](https://github.com/KIMBJ1)
+<!--
   <img src="https://github-readme-stats.vercel.app/api?username=KIMBJ1&layout=compact&show_icons=true&theme=vue&hide_border=true" />
+-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMBJ1&layout=compact&theme=vue&hide_border=true" />
   
 ### Interest
