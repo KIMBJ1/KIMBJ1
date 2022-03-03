@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 ### Latest Projects
 [Front-End miniproject](https://github.com/KIMBJ1/boot_miniProject3)
 
+### Tistory
+[asdf](https://qudwh9.tistory.com/)
+
 ### Languages and Tools
 
 #### What I Used
