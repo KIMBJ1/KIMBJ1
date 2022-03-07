@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Interest
 
 ### Latest Projects
-[Front-End miniproject](https://github.com/KIMBJ1/boot_miniProject3)
+[bootCamp](https://github.com/KIMBJ1/boot)
 
 ### Tistory
 [asdf](https://qudwh9.tistory.com/)
